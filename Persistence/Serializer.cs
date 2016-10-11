@@ -29,7 +29,6 @@ namespace Persistenz
         }
 
         /// <summary>
-        /// Lädt ein Objekt aus einer XML Datei und gibt diesen zurück. (Null wenn keine Datei vorhanden)
         /// Loads a Object from a XML File and returns it. Null if no File exists.
         /// </summary>
         /// <typeparam name="T">Type of the Instance to load</typeparam>

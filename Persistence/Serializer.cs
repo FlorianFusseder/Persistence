@@ -57,7 +57,6 @@ namespace Persistenz
             }
             catch (Exception e)
             {
-
                 throw new Exception("Persistence failure! Could not load " + e.Message);
             }
         }
